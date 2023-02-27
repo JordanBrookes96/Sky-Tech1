@@ -1,0 +1,5 @@
+Name = input("Enter Your Name:")
+Address = input("Enter Your Address:")
+Company = input ("Wokrs For:")
+print("------------------")
+print(Name,"lives in", Address, "And Works For", Company)
